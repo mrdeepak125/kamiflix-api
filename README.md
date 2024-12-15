@@ -1,6 +1,6 @@
-# amvstrm's API
+# kamiflix's API
 
-This is the bun version of amvstrm/API using Elysia.js. The app is still in development and is not ready for production use and Some have not been tested properly.
+This is the bun version of kamiflix/API using Elysia.js. The app is still in development and is not ready for production use and Some have not been tested properly.
 
 ## Installation
 
